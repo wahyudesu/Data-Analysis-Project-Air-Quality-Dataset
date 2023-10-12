@@ -1,4 +1,4 @@
-![image](https://github.com/wahyudesu/Dicoding_analysis_python/assets/96912274/477def0c-0f33-4489-8988-e42d93378875)# Dicoding_analysis_python
+# Dicoding_analysis_python
 - Python data wragling in Dicoding
 - Exploratory Data Analysis Exercise
 
