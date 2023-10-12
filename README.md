@@ -5,4 +5,4 @@
 Dataset: https://www.kaggle.com/datasets/ruchi798/shopping-cart-database
 
 # Data wragling explain
-![100](https://miro.medium.com/v2/resize:fit:1400/1*y1WLF1Y7b7n6jCy7gOixBA.png)
+![x100](https://miro.medium.com/v2/resize:fit:1400/1*y1WLF1Y7b7n6jCy7gOixBA.png)
